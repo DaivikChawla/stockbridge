@@ -214,6 +214,6 @@ Product names and pack prices are common Indian MRPs, used only as realistic lab
 
 Three first-year CSE students, Thapar Institute of Engineering and Technology, Patiala.
 
-- [Name 1]
-- [Name 2]
-- [Name 3]
+- Daivik Chawla
+- Amogh Anand
+- Parv Dua
