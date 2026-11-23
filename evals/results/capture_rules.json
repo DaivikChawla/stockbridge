@@ -1,0 +1,75 @@
+{
+  "n": 300,
+  "seed": 7,
+  "parser": "rules",
+  "upi_sales": 224,
+  "cash_sales": 76,
+  "auto_saved_correct": 203,
+  "saved_after_one_tap": 0,
+  "saved_silently_wrong": 1,
+  "flagged_for_owner": 22,
+  "cash_confirmed_correct": 64,
+  "cash_confirmed_wrong": 10,
+  "item_precision": 0.996,
+  "item_recall": 0.891,
+  "item_f1": 0.941,
+  "baseline_no_checksum_wrong_bills_upi": 56,
+  "examples": [
+    {
+      "heard": "ek surf aur ek colgate paste",
+      "paid": 65,
+      "status": "match",
+      "taps": 0,
+      "correct": true
+    },
+    {
+      "heard": "uncle do good day bada dena",
+      "paid": null,
+      "status": "cash_confirm",
+      "taps": 0,
+      "correct": true
+    },
+    {
+      "heard": "sun na 4 bournvita",
+      "paid": 980,
+      "status": "match",
+      "taps": 0,
+      "correct": true
+    },
+    {
+      "heard": "bhai sahab 1 maggi, 4 dettol sabun, do parle g, kitne hue de do",
+      "paid": 294,
+      "status": "match",
+      "taps": 0,
+      "correct": true
+    },
+    {
+      "heard": "bhai sahab char good day te char good day de do",
+      "paid": 120,
+      "status": "mismatch",
+      "taps": 0,
+      "correct": false
+    },
+    {
+      "heard": "sun na 1 dairy milk, 1 kurkure de do",
+      "paid": 20,
+      "status": "match",
+      "taps": 0,
+      "correct": true
+    },
+    {
+      "heard": "bhaiya 3 dettol, kitne hue, 1 chhota parle, 5 maggi please",
+      "paid": 425,
+      "status": "match",
+      "taps": 0,
+      "correct": true
+    },
+    {
+      "heard": "do dettol aur do colgate dedo ji",
+      "paid": 200,
+      "status": "match",
+      "taps": 0,
+      "correct": true
+    }
+  ]
+}

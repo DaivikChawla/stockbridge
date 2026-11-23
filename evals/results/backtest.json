@@ -1,0 +1,159 @@
+{
+  "seeds": 5,
+  "summary": {
+    "baseline": {
+      "expired_units": 171,
+      "expired_value": 3294,
+      "lost_units": 428,
+      "lost_value": 12611,
+      "sold_units": 38612,
+      "moved_units": 0,
+      "moves": 0,
+      "owner_requests": 0,
+      "claims": 0
+    },
+    "stockbridge": {
+      "expired_units": 28,
+      "expired_value": 562,
+      "lost_units": 419,
+      "lost_value": 11823,
+      "sold_units": 38602,
+      "moved_units": 428,
+      "moves": 94,
+      "owner_requests": 188,
+      "claims": 7
+    },
+    "change": {
+      "expired_value_pct": -82.9,
+      "lost_sales_value_pct": -6.2
+    },
+    "note": "SYNTHETIC data: 40 simulated shops, 90 simulated days, simulated owner answers."
+  },
+  "runs": [
+    {
+      "seed": 1,
+      "baseline": {
+        "expired_units": 175,
+        "expired_value": 2225,
+        "lost_units": 396,
+        "lost_value": 15502,
+        "sold_units": 36843,
+        "moved_units": 0,
+        "moves": 0,
+        "claims": 0,
+        "owner_requests": 0
+      },
+      "stockbridge": {
+        "expired_units": 8,
+        "expired_value": 73,
+        "lost_units": 398,
+        "lost_value": 15792,
+        "sold_units": 36832,
+        "moved_units": 452,
+        "moves": 89,
+        "claims": 4,
+        "owner_requests": 185
+      }
+    },
+    {
+      "seed": 2,
+      "baseline": {
+        "expired_units": 161,
+        "expired_value": 3158,
+        "lost_units": 520,
+        "lost_value": 14055,
+        "sold_units": 36479,
+        "moved_units": 0,
+        "moves": 0,
+        "claims": 0,
+        "owner_requests": 0
+      },
+      "stockbridge": {
+        "expired_units": 41,
+        "expired_value": 850,
+        "lost_units": 500,
+        "lost_value": 13263,
+        "sold_units": 36497,
+        "moved_units": 452,
+        "moves": 108,
+        "claims": 11,
+        "owner_requests": 217
+      }
+    },
+    {
+      "seed": 3,
+      "baseline": {
+        "expired_units": 231,
+        "expired_value": 5060,
+        "lost_units": 507,
+        "lost_value": 13324,
+        "sold_units": 39850,
+        "moved_units": 0,
+        "moves": 0,
+        "claims": 0,
+        "owner_requests": 0
+      },
+      "stockbridge": {
+        "expired_units": 36,
+        "expired_value": 1086,
+        "lost_units": 500,
+        "lost_value": 13231,
+        "sold_units": 39908,
+        "moved_units": 676,
+        "moves": 122,
+        "claims": 8,
+        "owner_requests": 238
+      }
+    },
+    {
+      "seed": 4,
+      "baseline": {
+        "expired_units": 129,
+        "expired_value": 2739,
+        "lost_units": 338,
+        "lost_value": 10719,
+        "sold_units": 39468,
+        "moved_units": 0,
+        "moves": 0,
+        "claims": 0,
+        "owner_requests": 0
+      },
+      "stockbridge": {
+        "expired_units": 42,
+        "expired_value": 623,
+        "lost_units": 337,
+        "lost_value": 8657,
+        "sold_units": 39334,
+        "moved_units": 219,
+        "moves": 62,
+        "claims": 6,
+        "owner_requests": 125
+      }
+    },
+    {
+      "seed": 5,
+      "baseline": {
+        "expired_units": 159,
+        "expired_value": 3287,
+        "lost_units": 380,
+        "lost_value": 9456,
+        "sold_units": 40420,
+        "moved_units": 0,
+        "moves": 0,
+        "claims": 0,
+        "owner_requests": 0
+      },
+      "stockbridge": {
+        "expired_units": 14,
+        "expired_value": 180,
+        "lost_units": 360,
+        "lost_value": 8171,
+        "sold_units": 40438,
+        "moved_units": 340,
+        "moves": 88,
+        "claims": 4,
+        "owner_requests": 177
+      }
+    }
+  ]
+}
