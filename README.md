@@ -210,10 +210,6 @@ Product names and pack prices are common Indian MRPs, used only as realistic lab
 - **Browser Web Speech API**: speech to text in the demo.
 - **Claude Code** (AI coding assistant): used to help write code, tests and docs. The team reviewed and ran everything.
 
-## Team workflow
-
-The prototype-round build plan, agent rules and prompts live in [`playbook/`](playbook/README.md), [`AGENTS.md`](AGENTS.md) and [`PROGRESS.md`](PROGRESS.md).
-
 ## Team Terra
 
 Three first-year CSE students, Thapar Institute of Engineering and Technology, Patiala.
